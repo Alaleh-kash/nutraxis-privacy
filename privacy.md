@@ -39,12 +39,12 @@ Always consult a qualified healthcare professional before making health-related 
 
 If you need help, have questions, or want to report an issue, please contact:
 
-📧 **Email:** support@nutraxis.app  
-*(replace with your real email if needed)*
+📧 **Email:** alaleh212@gmail.com  
+
 
 ---
 
 ## Developer Information
 
-**Developer:** Alaleh Kashani  
+**Developer:** Alaleh Kash 
 **App Name:** Nutraxis
