@@ -38,6 +38,17 @@ This information is used only to provide the core functionality of the app and i
 
 ---
 
+## AI Features
+
+Nutraxis may use artificial intelligence (AI) technologies to analyze food images, generate nutrition insights, or provide wellness guidance.
+
+These AI features process only the information necessary to generate results for the user.  
+AI responses are provided for informational purposes and may not always be accurate.
+
+Users should not rely on AI-generated insights as medical or professional advice.
+
+---
+
 ## Third-Party Services
 
 Nutraxis may use trusted third-party services to operate certain features of the application, including:
