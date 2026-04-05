@@ -83,7 +83,7 @@ Always consult a qualified healthcare professional before making health-related 
 
 If you need help, have questions, or want to report an issue, please contact:
 
-📧 **Email:** alaleh212@gmail.com
+📧 **Email:** skydevstudio1@gmail.com
 
 ---
 
